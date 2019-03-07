@@ -1,4 +1,4 @@
-package fr.exercice.codeLuhn;
+package cleControleLuhn;
 
 import java.awt.Color;
 import java.awt.Dimension;
