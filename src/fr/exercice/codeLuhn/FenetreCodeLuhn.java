@@ -44,7 +44,7 @@ public class FenetreCodeLuhn extends JFrame {
 		
 		this.setTitle("Vérificateur Carte Bancaire");
 		
-		this.setIconImage(ImageIO.read(new File("iconeVisa.png")));
+		this.setIconImage(ImageIO.read(new File("iconeVisa.png"))); // l'icone doit se trouver dans le repertoire de ProjetCodeLuhn
 		this.setResizable(false);
 		this.setSize(400,200);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
