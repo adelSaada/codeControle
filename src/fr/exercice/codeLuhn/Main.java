@@ -6,6 +6,11 @@ import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;
 
+/**
+ * 
+ * @author Adel SAADA KHELKHAL
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) throws IOException{

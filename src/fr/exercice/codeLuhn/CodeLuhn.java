@@ -1,5 +1,10 @@
 package fr.exercice.codeLuhn;
 
+/**
+ * 
+ * @author Adel SAADA
+ *
+ */
 public class CodeLuhn {
 
 	

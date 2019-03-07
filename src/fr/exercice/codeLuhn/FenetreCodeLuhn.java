@@ -18,6 +18,11 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.text.MaskFormatter;
 
+/**
+ * 
+ * @author Adel SAADA
+ *
+ */
 public class FenetreCodeLuhn extends JFrame {
 	
 
