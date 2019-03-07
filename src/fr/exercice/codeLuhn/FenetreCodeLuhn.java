@@ -47,6 +47,7 @@ public class FenetreCodeLuhn extends JFrame {
 		this.setIconImage(ImageIO.read(new File("iconeVisa.png"))); // l'icone doit se trouver dans le repertoire de ProjetCodeLuhn
 		this.setResizable(false);
 		this.setSize(400,200);
+		this.setLocationRelativeTo(null);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		
